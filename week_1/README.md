@@ -4,12 +4,18 @@
 <br>
 **Now I Can**
 - make game object move automatically
-- manipulate the movement of game object: rotate, move
+- manipulate the movement of game object: rotate, move   
+<br>
+
+📂 **'driving'** folder gives information about basic manipulation of game object<br>
+
+📂 **'flying'** folder is for _challenge mission_ <br>
 <br>
 
 - - -
 
 ❗ **NOTE for me** ❗   
+   
 Why I should use _'Vector3.forward'_  to make propeller spin around?   
 Each function of _Vector3_  has information of direction.   
 The assigned direction for each function is presented below.   
