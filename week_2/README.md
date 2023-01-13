@@ -33,4 +33,10 @@ When I use objects provided by tutorial, I use a prefab of object.<br>
 If I drag some objects from _hierarchy_ to folders in _Project_ , I can make prefabs.<br>
 <br>
 If you want to apply some script to prefab through object in hierarch, check _Overrides_ .<br>
-And the duplicated object will have same script.
+And the duplicated object will have same script.<br>
+<br>
+<br>
+How can I get to know current time using C#?<br>
+<br>
+I tried to know the method for this goal, but I failed..<br>
+You can see my tries in _'PlayerControllerX.cs'_ .
