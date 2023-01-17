@@ -39,4 +39,5 @@ And the duplicated object will have same script.<br>
 How can I get to know current time using C#?<br>
 <br>
 I tried to know the method for this goal, but I failed..<br>
-You can see my tries in _'PlayerControllerX.cs'_ .
+You can see my tries in _'PlayerControllerX.cs'_ .<br>
+🦕 __MinJae__ 🦕 said "Use 'Time' class, specifically 'Time.time'."
