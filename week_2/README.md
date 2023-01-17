@@ -16,7 +16,7 @@
 - - -
 
 ❗ **NOTE for me** ❗<br>
-Let's assume that the 'void Update()' is same with 'while' loop which is repeated until the end of game.<br>
+🔅Let's assume that the 'void Update()' is same with 'while' loop which is repeated until the end of game.<br>
 <br>
 In tutorial, tutor organized codes to bring the player to same time again and again if it escapes the limitted range to restrict the range of movement.<br>
 I thought that this process is unnecessary, and it would be better to take input in only when the player in some boundary.<br>
@@ -26,7 +26,7 @@ However, this operation is incomplete because it ignored the input after restric
 I think that the more consideration is needed..<br>
 <br>
 <br>
-What is the _Prefab_ ?<br>
+🔅What is the _Prefab_ ?<br>
 <br>
 It is the bung-u-bbang frame that Minjae said.<br>
 When I use objects provided by tutorial, I use a prefab of object.<br>
@@ -36,7 +36,7 @@ If you want to apply some script to prefab through object in hierarch, check _Ov
 And the duplicated object will have same script.<br>
 <br>
 <br>
-How can I get to know current time using C#?<br>
+🔅How can I get to know current time using C#?<br>
 <br>
 I tried to know the method for this goal, but I failed..<br>
 You can see my tries in _'PlayerControllerX.cs'_ .<br>
