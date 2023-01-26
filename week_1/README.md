@@ -2,12 +2,12 @@
 🙌 Check this [link](https://learn.unity.com/project/unit-1-driving-simulation?uv=2019.4&courseId=5cf96c41edbc2a2ca6e8810f) for original tutorial   
 <br>
 <br>
-**Now I Can**
+🙋‍♀️**Now I Can**
 - make game object move automatically
 - manipulate the movement of game object: rotate, move   
 <br>
 
-📂 **'driving'** folder gives information about basic manipulation of game object<br>
+📂 **'driving'** folder gives information about basic manipulation of Unity<br>
 
 📂 **'flying'** folder is for _challenge mission_ <br>
 <br>
