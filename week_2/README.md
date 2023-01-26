@@ -7,7 +7,7 @@
 - make game object automatically being removed over some limitation<br>
 <br>
 
-📂 **'food'** folder gives information about basic manipulation of game object<br>
+📂 **'food'** folder gives information about basic manipulation of unity<br>
 
 📂 **'ball'** folder is for _challenge mission_ <br>
 <br>
