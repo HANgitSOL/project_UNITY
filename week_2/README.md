@@ -2,7 +2,7 @@
 🙌 Check this [link](https://learn.unity.com/project/unit-2-basic-gameplay?uv=2019.4&courseId=5cf96c41edbc2a2ca6e8810f) for original tutorial   
 <br>
 <br>
-**Now I Can**<br>
+🙋‍♀️**Now I Can**<br>
 - restrict movement of game object<br>
 - make game object automatically being removed over some limitation<br>
 <br>
